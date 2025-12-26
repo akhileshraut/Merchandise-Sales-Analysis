@@ -98,7 +98,7 @@ CALCULATE(
     'Merchandise_sales'[Sentiment] = "Positive"
 )
 ```
-#### **Dashboard Link**
+#### **Link**
 
 https://app.powerbi.com/view?r=eyJrIjoiYmM4NjgxZmUtZTcxNC00Zjc4LTg0NTMtNGM0MjhkOTU2YWM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
